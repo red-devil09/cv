@@ -1,0 +1,56 @@
+- layout: left
+  name: Pathfinding Algo-Visualiser
+  github: red-devil09/Pathfinder
+
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    * Developed **JavaScript** application for visualizing pathfinding **Graph Algorithms** on 2D grid using animations
+
+    * Implemented **DFS** and **BFS** algorithms with functionality of restricted cells, shortest path and execution time
+
+- layout: left
+  name: Tour Managing API
+  github: red-devil09/Manage-Tours
+
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    * Developed a RESTful API using **express** ready to be used by front-end engines to access tour stats in real time
+
+    * Used **mongoose** model as a wrapper around schema and to provide interface to the database for **CRUD** operation
+
+    * Implemented data filtering techniques such as sorting, aliasing and aggregation to enroute popular API endpoints
+
+- layout: left
+  name: User Authentication API
+  github: red-devil09/Manage-Tours
+
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    * Built a RESTful API using **express** on **mongoose** model to provide login, logout and password reset functionlaity
+
+    * **Passport-jwt** strategy was used to acknowledge only verified and authorised users to access protected routes
+
+    * Front-end to this RESTful API was built on **Jade** templating engine and **Sendgrid** was used a mailing service
+
+- layout: left
+  name: Speed Reader
+  github: red-devil09/reader_app
+
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    * Developed an web-application using **JQuery Mobile** and **JavaScript** which diplays the user input paragraph word by word at an adjustable speed and font size along with the functionality of a responsive progress bar
+
+- layout: left
+  name: Sudoku Solver
+  github: red-devil09/sudoku_app/
+
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    * Created a sudoku solver application using **JavaScript** and **CSS** which fetches a new puzzle using external API
+
+    * Implemented solver function using **recursion and back-tracking** algorithms to render the solution of the puzzle

@@ -1,0 +1,12 @@
+# Experience template
+- layout: left
+  company: GeeksForGeeks
+  link: www.geeksforgeeks.org
+  job_title: Technical Content Writer
+  dates: Date Range (eg. July 2020 - present)
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    * Wrote articles on various paradigms of Data Structures and Algorithms, encompassing codes for easy understanding
+
+    * Improved existing resources and collaborated with other members to make it easier to understand for the audience

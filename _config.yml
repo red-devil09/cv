@@ -1,0 +1,57 @@
+# Site
+repository: red-devil09/portfolio
+favicon: images/favicon.ico
+
+# Personal info
+name: Nikhil Yadav
+title: Competetive programmer | Web-development enthusiast
+
+email: ynikhil1999@gmail.com
+
+# Social links
+github_username: red-devil09
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+linkedin_username: nikhil-yadav-14901917b
+# pinterest_username: jekyll
+additional_links:
+  - title: Resume link
+    icon: fa fa-file-pdf-o
+    url: https://drive.google.com/file/d/1eWtk7gqBkwBJ1sVFhLJnfeaRepp61iLx/view?usp=sharing
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.png
+about_content: | # this will include new lines to allow paragraphs
+  Hi, I am Nikhil. I will be graduating with my Bachelor's degree from <strong>NIT Kurukshetra</strong> with specialization in <strong>Electronics and Communication</strong> in May 2021. I like solving rigorous problems especially in the field of algorithms. So programing is intuitive to me. 
+  As a result I have been quite active in Competitive Programming. <strong>Data structures and algorithms</strong> are my niche. I have avid interest in developing <strong>web applications</strong>. The aforementioned skills require fast thinking as well as patience and I find myself learning the best of these qualities.
+
+# Education Section
+# educaton_title: Education
+
+# Projects Section
+# projects_title: Projects
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in competetive programming some of my other interests and hobbies are:
+   - I am a Fitness Freak
+   - I love to play football
+   - Becoming a Nutritionist
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+darkmode: never
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
